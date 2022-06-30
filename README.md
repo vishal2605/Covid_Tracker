@@ -8,7 +8,6 @@ A Java based app to track Covid-19. This app is made with the main motive of spr
 ## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/77671133/147875881-0791257f-c01d-4d4d-881f-a5a47260a626.png)
-
 ![App Screenshot](https://user-images.githubusercontent.com/77671133/147875909-e6bc58b0-1e74-419b-9743-b35212fe1b9e.png)
 ## About
 
